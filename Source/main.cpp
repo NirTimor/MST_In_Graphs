@@ -1,8 +1,3 @@
-/*
-* The next project will implement finding a minimal spreading tree (MST) using 2 different algorithms (Prim and Kruskale) 
-* Submitters : Nir Timor , Idan Cohen
-* Algorithims Course
-*/
 #include <stdio.h>
 #include <fstream>
 #include <string>
